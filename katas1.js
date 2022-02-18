@@ -5,7 +5,7 @@ function oneThroughTwenty() {
   }
   return deUmAVinte
 }
-// console.log(oneThroughTwenty())
+console.log(oneThroughTwenty())
 
 // ////////////////////////////////
 
@@ -20,7 +20,7 @@ function evensToTwenty() {
   return parVinte
 }
 
-// console.log(evensToTwenty())
+console.log(evensToTwenty())
 
 ///////////////////////////
 
@@ -35,7 +35,7 @@ function oddsToTwenty() {
   return imparVinte
 }
 
-// console.log(oddsToTwenty())
+console.log(oddsToTwenty())
 
 ////////////////////////////
 
@@ -52,7 +52,7 @@ function multiplesOfFive() {
     return mult
 }
 
-// console.log(multiplesOfFive())
+console.log(multiplesOfFive())
 
 ////////////////////////////
 
@@ -67,7 +67,7 @@ function squareNumbers() {
     return quadrado 
 }
 
-// console.log(squareNumbers())
+console.log(squareNumbers())
 
 ///////////////////////////
 
@@ -79,7 +79,7 @@ function countingBackwards() {
     return deVinteaUm
 }
 
-// console.log(countingBackwards())
+console.log(countingBackwards())
 
 ////////////////////////////
 
@@ -94,7 +94,7 @@ function evenNumbersBackwards() {
   return parContrario
 }
 
-// console.log(evenNumbersBackwards())
+console.log(evenNumbersBackwards())
 
 ////////////////////////////
 
@@ -109,7 +109,7 @@ function oddNumbersBackwards() {
   return contrarioImpar
 }
 
-// console.log(oddNumbersBackwards())
+console.log(oddNumbersBackwards())
 
 ////////////////////////////////////
 
@@ -126,13 +126,13 @@ function multiplesOfFiveBackwards() {
   return contrarioMult
 }
 
-// console.log(multiplesOfFiveBackwards())
+console.log(multiplesOfFiveBackwards())
 
 //////////////////////////////////
 
 function squareNumbersBackwards() {
   let quadrado1 = []
-    for(let i = 10; i >= 2; i--) {
+    for(let i = 10; i >= 1; i--) {
       if(Number.isInteger(i**2)) {
       quadrado1.push(i**2)
       console.log(i**2)
