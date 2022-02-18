@@ -1,0 +1,9 @@
+contrarioMult;soma1;i;i  >= 5;i % 5 == 0;i--
+[];-;-;-;-;-
+[];0;-;-;-;-
+[];0;100;true;true;100-1
+[100];0;99;true;false;99-1
+[100];0;98;true;false;98-1
+[100];0;97;true;false;97-1
+[100];0;96;true;false;96-1
+[100];0;95;true;true;

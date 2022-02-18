@@ -1,0 +1,8 @@
+parVinte;i;i <= 20;i % 2 === 0;i++
+[];-;-;-;-
+[];1;-;-;-
+[];1;true;false;1+1
+[];2;true;true;2+1
+[2];3;true;false;3+1
+[2];4;true;true;4+1
+[2, 4];5;true;false;5+1

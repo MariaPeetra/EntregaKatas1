@@ -1,0 +1,7 @@
+quadrado;i;i <= 10;i**2;i++
+[];1;-;-;-
+[];1;true;true;1+1
+[1];2;true;true;2+1
+[1, 4];3;true;true;3+1
+[1, 4, 9];4;true;true;4+1
+[1, 4, 9, 16];5;true;true;5+1

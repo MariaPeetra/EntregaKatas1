@@ -1,0 +1,10 @@
+mult;soma;i;i <= 100;i % 5 == 0;i++
+[];-;-;-;-;-
+[];0;-;-;-;-
+[];0;1;-;-;-
+[];0;1;true;false;1+1
+[];0;2;true;false;2+1
+[];0;3;true;false;3+1
+[];0;4;true;false;4+1
+[];0;5;true;true;5+1
+[];0;6;true;false;6+1
